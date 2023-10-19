@@ -16,6 +16,7 @@ header a{
     color: white;
     font-size: 1.6em;
     text-align: center;
+    padding: 1%;
 }
 header a:hover{
     transition: all 0.02s ease-in-out;
@@ -46,4 +47,11 @@ nav .grid-header{
     width: 100%;
     
 
+}
+
+body{
+    background-image: url("background.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgb(20, 61, 61);
 }
