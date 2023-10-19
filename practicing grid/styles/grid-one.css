@@ -64,8 +64,7 @@ main h1{
 main .body{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    background-color: rgb(106, 100, 100);
-    opacity: 0.5;
+
 }
 main .body .img-one, .img-two, .img-three{
     border-radius: 50%/50%;
